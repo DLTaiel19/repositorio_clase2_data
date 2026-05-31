@@ -1,3 +1,6 @@
-Información sobre el proyecto.
-Detallamos de donde sacamos los datos. 
-Podemos explicar la metodología de trabajo.
+# TÍTULO DE PRUEBA PARA README. 
+
+# SUBTÍTULO DE PRUEBA PARA README
+
+### TEXTO PLANO PARA MUESTRA Y DEBAJO EL TEXTO NORMAL. 
+Esto es un texto normal de prueba para el readme y entender cómo funcionan los formatos de texto.
